@@ -1,0 +1,14 @@
+D:\arch\учеба\Архив работ\2курс 1 семак\практики Русаков\praktika1\01\up1\PR01-1-1\bin\Debug\netcoreapp3.1\PR01-1-1.exe
+D:\arch\учеба\Архив работ\2курс 1 семак\практики Русаков\praktika1\01\up1\PR01-1-1\bin\Debug\netcoreapp3.1\PR01-1-1.deps.json
+D:\arch\учеба\Архив работ\2курс 1 семак\практики Русаков\praktika1\01\up1\PR01-1-1\bin\Debug\netcoreapp3.1\PR01-1-1.runtimeconfig.json
+D:\arch\учеба\Архив работ\2курс 1 семак\практики Русаков\praktika1\01\up1\PR01-1-1\bin\Debug\netcoreapp3.1\PR01-1-1.runtimeconfig.dev.json
+D:\arch\учеба\Архив работ\2курс 1 семак\практики Русаков\praktika1\01\up1\PR01-1-1\bin\Debug\netcoreapp3.1\PR01-1-1.dll
+D:\arch\учеба\Архив работ\2курс 1 семак\практики Русаков\praktika1\01\up1\PR01-1-1\bin\Debug\netcoreapp3.1\PR01-1-1.pdb
+D:\arch\учеба\Архив работ\2курс 1 семак\практики Русаков\praktika1\01\up1\PR01-1-1\obj\Debug\netcoreapp3.1\PR01-1-1.csproj.AssemblyReference.cache
+D:\arch\учеба\Архив работ\2курс 1 семак\практики Русаков\praktika1\01\up1\PR01-1-1\obj\Debug\netcoreapp3.1\PR01-1-1.GeneratedMSBuildEditorConfig.editorconfig
+D:\arch\учеба\Архив работ\2курс 1 семак\практики Русаков\praktika1\01\up1\PR01-1-1\obj\Debug\netcoreapp3.1\PR01-1-1.AssemblyInfoInputs.cache
+D:\arch\учеба\Архив работ\2курс 1 семак\практики Русаков\praktika1\01\up1\PR01-1-1\obj\Debug\netcoreapp3.1\PR01-1-1.AssemblyInfo.cs
+D:\arch\учеба\Архив работ\2курс 1 семак\практики Русаков\praktika1\01\up1\PR01-1-1\obj\Debug\netcoreapp3.1\PR01-1-1.csproj.CoreCompileInputs.cache
+D:\arch\учеба\Архив работ\2курс 1 семак\практики Русаков\praktika1\01\up1\PR01-1-1\obj\Debug\netcoreapp3.1\PR01-1-1.dll
+D:\arch\учеба\Архив работ\2курс 1 семак\практики Русаков\praktika1\01\up1\PR01-1-1\obj\Debug\netcoreapp3.1\PR01-1-1.pdb
+D:\arch\учеба\Архив работ\2курс 1 семак\практики Русаков\praktika1\01\up1\PR01-1-1\obj\Debug\netcoreapp3.1\PR01-1-1.genruntimeconfig.cache
